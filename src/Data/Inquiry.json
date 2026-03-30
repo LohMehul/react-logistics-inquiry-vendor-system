@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "inquiryNo": "INQ001",
+    "date": "2026-03-01",
+    "customer": "ABC Ltd",
+    "from": "Ahmedabad",
+    "to": "Mumbai",
+    "vehicle": "Truck",
+    "status": "Pending"
+  },
+  {
+    "id": 2,
+    "inquiryNo": "INQ002",
+    "date": "2026-03-02",
+    "customer": "XYZ Pvt",
+    "from": "Delhi",
+    "to": "Pune",
+    "vehicle": "Mini Truck",
+    "status": "Approved"
+  },
+  {
+    "id": 3,
+    "inquiryNo": "INQ003",
+    "date": "2026-03-03",
+    "customer": "Reliance",
+    "from": "Surat",
+    "to": "Jaipur",
+    "vehicle": "Trailer",
+    "status": "Pending"
+  },
+  {
+    "id": 4,
+    "inquiryNo": "INQ004",
+    "date": "2026-03-04",
+    "customer": "Tata Ltd",
+    "from": "Mumbai",
+    "to": "Nagpur",
+    "vehicle": "Truck",
+    "status": "Rejected"
+  },
+  {
+    "id": 5,
+    "inquiryNo": "INQ005",
+    "date": "2026-03-05",
+    "customer": "Adani Group",
+    "from": "Ahmedabad",
+    "to": "Delhi",
+    "vehicle": "Container",
+    "status": "Approved"
+  },
+  {
+    "id": 6,
+    "inquiryNo": "INQ006",
+    "date": "2026-03-06",
+    "customer": "Mahindra",
+    "from": "Pune",
+    "to": "Hyderabad",
+    "vehicle": "Mini Truck",
+    "status": "Pending"
+  },
+  {
+    "id": 7,
+    "inquiryNo": "INQ007",
+    "date": "2026-03-07",
+    "customer": "Infosys",
+    "from": "Bangalore",
+    "to": "Chennai",
+    "vehicle": "Truck",
+    "status": "Approved"
+  },
+  {
+    "id": 8,
+    "inquiryNo": "INQ008",
+    "date": "2026-03-08",
+    "customer": "Wipro",
+    "from": "Hyderabad",
+    "to": "Kolkata",
+    "vehicle": "Trailer",
+    "status": "Pending"
+  },
+  {
+    "id": 9,
+    "inquiryNo": "INQ009",
+    "date": "2026-03-09",
+    "customer": "HCL",
+    "from": "Noida",
+    "to": "Lucknow",
+    "vehicle": "Mini Truck",
+    "status": "Rejected"
+  },
+  {
+    "id": 10,
+    "inquiryNo": "INQ010",
+    "date": "2026-03-10",
+    "customer": "Flipkart",
+    "from": "Bangalore",
+    "to": "Ahmedabad",
+    "vehicle": "Container",
+    "status": "Approved"
+  }
+]

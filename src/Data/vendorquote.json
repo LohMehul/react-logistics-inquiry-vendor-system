@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "inquiryNo": "INQ001",
+        "vendor": "Fast Logistics",
+        "amount": 12000,
+        "transitDays": 3,
+        "status": "Pending"
+    },
+    {
+        "id": 2,
+        "inquiryNo": "INQ002",
+        "vendor": "Speed Transport",
+        "amount": 15000,
+        "transitDays": 2,
+        "status": "Approved"
+    },
+    {
+        "id": 3,
+        "inquiryNo": "INQ003",
+        "vendor": "Express Movers",
+        "amount": 18000,
+        "transitDays": 4,
+        "status": "Pending"
+    },
+    {
+        "id": 4,
+        "inquiryNo": "INQ004",
+        "vendor": "Safe Cargo",
+        "amount": 14000,
+        "transitDays": 3,
+        "status": "Rejected"
+    },
+    {
+        "id": 5,
+        "inquiryNo": "INQ005",
+        "vendor": "Global Transport",
+        "amount": 20000,
+        "transitDays": 5,
+        "status": "Approved"
+    },
+    {
+        "id": 6,
+        "inquiryNo": "INQ006",
+        "vendor": "Quick Shippers",
+        "amount": 11000,
+        "transitDays": 2,
+        "status": "Pending"
+    },
+    {
+        "id": 7,
+        "inquiryNo": "INQ007",
+        "vendor": "Prime Logistics",
+        "amount": 17000,
+        "transitDays": 3,
+        "status": "Approved"
+    },
+    {
+        "id": 8,
+        "inquiryNo": "INQ008",
+        "vendor": "Skyline Transport",
+        "amount": 22000,
+        "transitDays": 6,
+        "status": "Pending"
+    },
+    {
+        "id": 9,
+        "inquiryNo": "INQ009",
+        "vendor": "Rapid Movers",
+        "amount": 9000,
+        "transitDays": 1,
+        "status": "Rejected"
+    },
+    {
+        "id": 10,
+        "inquiryNo": "INQ010",
+        "vendor": "Nationwide Logistics",
+        "amount": 25000,
+        "transitDays": 5,
+        "status": "Approved"
+    }
+]

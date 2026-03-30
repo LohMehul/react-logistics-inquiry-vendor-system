@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "User One",
+    "email": "user1@test.com",
+    "username": "user1",
+    "password": "1234",
+    "branch": "Ahmedabad",
+    "status": "Active"
+  },
+  {
+    "id": 2,
+    "name": "User Two",
+    "email": "user2@test.com",
+    "username": "user2",
+    "password": "1234",
+    "branch": "Surat",
+    "status": "Active"
+  }
+]
